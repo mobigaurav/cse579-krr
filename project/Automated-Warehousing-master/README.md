@@ -1,9 +1,6 @@
 # CSE 579 Warehousing Problem
 
-- The following is our implementation for the Automated Warehouse Scenario, details about which can be found in the [ASP challenge 2019](https://sites.google.com/view/aspcomp2019/problem-domains)
-- We have succesfully completed the project, please find below the directory structure
-
-	- simpleInstances
+- simpleInstances
 	**It contains the various initialization files for checking the working of the system.**
 		+ inst1.asp
 		+ inst2.asp
